@@ -6,3 +6,5 @@ Collaborators:
 Hannibal Solås Herforth
 Lasse Krone Laursen
 Jesper Skov Bornerup
+
+The report can be found in the repository as Data Mining (KSDAMIN1KU).pdf
